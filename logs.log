@@ -1,0 +1,8 @@
+2022-07-17 19:15:46,831:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-07-17 19:15:46,831:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-07-17 19:15:46,831:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-07-17 19:15:46,831:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.

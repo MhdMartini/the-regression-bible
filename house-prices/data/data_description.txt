@@ -315,7 +315,7 @@ BsmtFinSF1: Type 1 finished square feet
 BsmtFinType2: Rating of basement finished area (if multiple types)
 
        GLQ	Good Living Quarters
-       ALQ	Average Living Quarters
+       ALQ	Heating Living Quarters
        BLQ	Below Average Living Quarters	
        Rec	Average Rec Room
        LwQ	Low Quality
