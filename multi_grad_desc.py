@@ -18,22 +18,10 @@ def multi_gradient_descent(X, y, lr, epochs):
     b = 0
     for _ in range(epochs):
         y_hat = w @ X.T + b
-
-        # print("y_hat:\n", y_hat)
-
         error = y_hat - y
-
-        # print("error:\n", error)
-
         dw = error @ X / m
-
-        # print("dw:\n", dw)
-
         db = np.sum(error) / m
         w = w - lr * dw
-
-        # print("new w:\n", w)
-
         b = b - lr * db
     return w, b
 
